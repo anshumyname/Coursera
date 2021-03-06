@@ -4,3 +4,6 @@
 [submodule "Front---End--UI---React"]
 	path = Front---End--UI---React
 	url = https://github.com/anshumyname/Front---End--UI---React
+[submodule "React-Native-Mobile-Development"]
+	path = React-Native-Mobile-Development
+	url = https://github.com/anshumyname/React-Native-Mobile-Development.git
