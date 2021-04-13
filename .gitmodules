@@ -7,3 +7,6 @@
 [submodule "React-Native-Mobile-Development"]
 	path = React-Native-Mobile-Development
 	url = https://github.com/anshumyname/React-Native-Mobile-Development.git
+[submodule "ServerSideDevNodeJS"]
+	path = ServerSideDevNodeJS
+	url = https://github.com/anshumyname/ServerSideDevNodeJS.git
